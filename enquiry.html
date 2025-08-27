@@ -26,6 +26,16 @@
             <label for="phone">Phone Number:</label>
             <input type="tel" id="phone" name="phone">
 
+            <!--the type of volunteer work you can do-->
+            <p>Please note you must be 18 years of age to be able to volunteer with us</p>
+            <label for="volunteer-type">Type of Volunteer Work:</label>
+            <select id="volunteer-type" name="volunteer_type" required>
+                <option value="">Please choose an option</option>
+                <option vaule="Dog Walker">Walking the Dogs</option>(walking the dogs mon-fri 09:00-14:30| sat-sun 09:00-12:00)
+                <option vaule="Cat Cuddler">Cuddling the cats</option>(mon-fri 09:00-14:30 | sat-sun 09:00-12:00)
+                <option vaule="Seal Squad">take care of the seals</option>(mon-fri 09:00-14;30| sat-sun 09:00-12:00)
+            </select>
+
             <!--Message reuqired field-->
             <label for="messages">Why do you want to volunteer</label>
             <textarea id="message" name="message" rows="5" required></textarea>
@@ -37,7 +47,8 @@
 
     <!--footer-->
     <footer>
-        <p>copyright;2025 Cape of Good Hope SPCA</p>
+        <p>2025 Cape of Good Hope SPCA</p>
     </footer>
+    <img src="/Images/dog walker.jpg" height="200" width="200"
 </body>    
 </html>
