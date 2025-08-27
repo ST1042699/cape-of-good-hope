@@ -1,18 +1,14 @@
 Student Name:Amelia Louw
 Student Number:ST10472699
+
 Name: Cape of Good Hope SPCA 
-Brief history 
-•	Cape of Good Hope SPCA was established in 1872 in Cape Town. The SPCA is South Africa’s oldest animal welfare institution, rescuing animals while promoting humane treatment 
-Mission and vision 
-•	The organisations mission is of DBV SPCA is to prevent animal cruelty from happening and promote proper health and welfare to animals
-•	The vision is to create a safe animal cruelty free environment for animals and educate the youth on animal cruelty 
-Target audience 
-•	Their target audience would be people that love animals, people that take part in donation projects, people that like to participate in volunteering and that are going to potentially adopt
-2	 Website goals and objectives 
+ 
+Website goals and objectives 
 Goals 
 •	The goal is to create a country where animals are protected, loved and cared for. The focus is to save and protect animals and to educate people on the rehabilitation of abused animals. 
 Objectives 
 •	The main objective is to protect all animals from cruelty and neglect and ill treatment as well as increasing donations and increasing the adoptions and gain more volunteers to educate 
+
 Key performances indicators (KPIs)
 •	Donation totals 
 •	Adoption numbers 
@@ -36,18 +32,7 @@ Desired functionality
 •	Having an online adoption application as well as donation forms 
 •	Photos of all the animals in SPCA that are available for adoption 
 •	Information of what the volunteers will be doing and what they require 
-5	Design and user experience 
-Aesthetic and branding 
-•	For an animal shelter the design should be appealing to animal’s lover’s animal friendly warm and welcoming and creative as well as having the company’s logo, and painting of animals to enhance the company’s aesthetic 
-Colour scheme 
-•	Colours that are fun and eye catching and appealing such as oranges, blues, whites green some browns as well as black and soft warm browns
-Typography 
-•	For animal shelter with a lot of information lato or ariel black should be ideal for clear readability and to capture the reader’s attention 
-Layout and design 
-•	The website should be easy to navigate and should have a navigation bar and should also be able to accommodate mobile responses 
-User Experience 
-•	User should be able to easily adopt 
-•	Easy donation processes 
+
  
 Wireframes 
 [ SPCA logo ]                      [menu: [Homepage] [adopt] [ help] 
@@ -68,22 +53,13 @@ Wireframes
 [our mission is to make to stop animal cruelty and ensure all animals are protected] 
 [follow us on: Instagram, Facebook, Tik Tok]  
 
-6	Technical requirements
-
-Hosting
-•	Cape of Good Hope shares hosting 
-Domain 
-•	Capespca.co .za
-programming languages
-•	HTML, CSS and JavaScript 
-7	Timeline and milestones 
-
+Timeline and milestones
 Start date: July 30, 2025 
 Design date: August 5, 2025 
 Development phase: August 15, 2025 
 Launch date: August 25, 2025 
-8	Budget 
 
+Budget
 Development cost: R10,000 – R20,000 
 Hosting cost: R1.200
 Maintenance cost: R 2,000 
